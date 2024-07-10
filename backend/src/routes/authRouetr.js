@@ -8,3 +8,4 @@ router.get('/all', authController.getAll);
 router.post('/submit-form', authController.submitForm);
 
 module.exports = router;
+
